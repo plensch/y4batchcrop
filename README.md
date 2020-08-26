@@ -1,5 +1,5 @@
 # y4batchcrop
-Crops all images in a directory  around an object using yolov4 for object detection.
+Crops all images in a directory  around an object using [yolov4](https://pypi.org/project/yolov4/) for object detection.
 Margins are selectable.
 
 Only crops around a horse with rider at the moment, as that is what i needed.
